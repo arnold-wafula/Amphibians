@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Amphibians</string>
+    <string name="internet_off">No Internet</string>
+    <string name="loading">Loading...</string>
+    <string name="loading_failed">Failed to load\n</string>
+    <string name="retry">Retry</string>
+    <string name="amphibian_photo">Amphibian Photo</string>
 </resources>
